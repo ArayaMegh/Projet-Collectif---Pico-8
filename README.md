@@ -1,6 +1,10 @@
 
 # Pico-8 : Le poussin vengeur !
 
+Février 2023, 1er mois de formation.
+
+Equipe de 3 en situation réelle.
+
 Pico-8 est une console imaginaire qui permet de créer, partager, et jouer à des jeux miniatures qui évoquent avec nostalgie les débuts du jeu vidéo grand public.
 
 La console possède un environnement de développement complet, de l'éditeur de code aux graphismes, en passant par la musique. Ses spécifications (écran carré de 128 pixels, 16 couleurs, 4 canaux sonores) vont vous contraindre à la créativité - comme des milliers de créateurs et créatrices avant vous, qui utilisent souvent Pico-8 pour prototyper des jeux, dont certains sont devenus de grands succès.
